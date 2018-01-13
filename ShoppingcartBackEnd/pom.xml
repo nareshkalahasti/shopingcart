@@ -12,7 +12,7 @@
 
 	<properties>
 		<org.springframework-version>4.3.3.RELEASE</org.springframework-version>
-		<dbh2.version>1.4.192</dbh2.version>
+		<dbh2.version>1.4.195</dbh2.version>
 	</properties>
 
 	<dependencies>
