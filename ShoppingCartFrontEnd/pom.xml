@@ -76,7 +76,7 @@
 
 		<dependency>
 			<groupId>com.niit</groupId>
-			<artifactId>ShoppingCartBackEnd</artifactId>
+			<artifactId>ShoppingcartBackEnd</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 
